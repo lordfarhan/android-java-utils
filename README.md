@@ -1,4 +1,4 @@
-# android-java-utils
+# android-toolbox
 Most used method in android using java.
 
 ## Installation
@@ -18,6 +18,6 @@ Add Gradle dependency:
 
 ```groovy
 dependencies {
-    implementation 'com.github.lordfarhan:android-java-utils:Tag'
+    implementation 'com.github.lordfarhan:android-toolbox:Tag'
 }
 ```
